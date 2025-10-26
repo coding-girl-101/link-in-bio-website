@@ -1,0 +1,10 @@
+body{
+    background-color: #FFE3EC;
+}
+
+.app-container{ 
+  display: flex;               /* Flexbox layout */
+  justify-content: center;     /* Horizontal centering */
+  align-items: center;         /* Vertical centering */
+  height: 100vh;               /* Full viewport height */
+ }
